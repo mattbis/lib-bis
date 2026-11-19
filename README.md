@@ -1,0 +1,3 @@
+# financial and business modules
+
+This will help me avoid costs and provide a complete secure management system. It will also expand into governance, and business stuff I don't know about...
